@@ -1,0 +1,14 @@
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/bin/Debug/net9.0/KMPStrings
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/bin/Debug/net9.0/KMPStrings.deps.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/bin/Debug/net9.0/KMPStrings.runtimeconfig.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/bin/Debug/net9.0/KMPStrings.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/bin/Debug/net9.0/KMPStrings.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/KMPStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/KMPStrings.AssemblyInfoInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/KMPStrings.AssemblyInfo.cs
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/KMPStrings.csproj.CoreCompileInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/KMPStrings.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/refint/KMPStrings.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/KMPStrings.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/KMPStrings.genruntimeconfig.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/KMP/KMPStrings/obj/Debug/net9.0/ref/KMPStrings.dll
